@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: HARISH RAGAV S
+### Register Number: 212222110013
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
