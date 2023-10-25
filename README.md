@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/harishragav272003/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119345345/78cd3948-d94b-4180-b216-0ed40ea03bd9)
+![image](https://github.com/harishragav272003/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119345345/b3375d61-5fe4-496d-a4e8-21e675243c65)
+
 
 ### Name: HARISH RAGAV S
 ### Register Number: 212222110013
