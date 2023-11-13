@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/harishragav272003/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119345345/b3375d61-5fe4-496d-a4e8-21e675243c65)
+![image](https://github.com/harishragav272003/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119345345/f3ad6b27-e18d-4d3b-977a-eab40c317ffb)
+
 
 
 ### Name: HARISH RAGAV S
